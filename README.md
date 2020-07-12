@@ -1,4 +1,5 @@
-### Hi there 👋
+<!--### Hi there 👋
+-->
 
 <!--
 **dgrej/dgrej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
+🌱 I’m currently learning Python and Javascript;
+🔭 I’m currently working whith pharma logistics in VTClog GRU;
+🎓 My academic education is in Logistic (supply chain);
+🎼 I'm an amateur musician, I love listening to music; play guitar and compose - the music is food for the soul;
+👨‍💻 I'm passionate about technology and I like to code
+
+##about me in: [dgrej.github.io/about](dgrej.github.io/about)
+
+![](https://i.redd.it/8roihmcqfu551.jpg)
+
