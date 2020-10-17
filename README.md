@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 ## about me in: 
 [dgrej.github.io/about](https://dgrej.github.io/about)
 
-![dgrej.github.io/about](https://cdn.dribbble.com/users/23118/screenshots/3557982/2.gif)
+<a href="(https://dgrej.github.io/about" target="_blank"><img src="https://cdn.dribbble.com/users/23118/screenshots/3557982/2.gif" alt="about Dino Grejo" width="500" height="600">
 
