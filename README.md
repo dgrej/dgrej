@@ -15,12 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
-- 🌱 I’m currently learning Python and Javascript;
-- 🔭 I’m currently working whith pharma logistics in VTClog GRU;
-- 🎓 My academic education is in Logistic (supply chain);
-- 🎼 I'm an amateur musician, I love listening to music; play guitar and compose - the music is food for the soul;
-- 👨‍💻 I'm passionate about technology and I like to code
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dinogrejo/)
+[<img src="https://img.shields.io/github/followers/dgrej?label=follow&style=social" height="22" title="Follow me" />](https://github.com/dgrej) 
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dinogrejo@msn.com)
+
+Olá, eu sou o Dino! 🦖
+
+- 🎸🎙️ Guitarrista e musico nas horas boas, 
+- 📦🚛 logistico por profissão e formação, 
+- 👨🏽‍💻 apaixonado por tecnologia! 
+
 
 ## about me in: 
 [dgrej.github.io/about](https://dgrej.github.io/about)
