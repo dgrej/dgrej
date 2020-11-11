@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 Olá, eu sou o Dino! 🦖
 
-- 🎸🎙️ Guitarrista e musico nas horas boas, 
-- 📦🚛 logistico por profissão e formação, 
+- 🎸🎙️ Guitarrista e músico nas horas boas, 
+- 📦🚛 loíistico por profissão e formação, 
 - 👨🏽‍💻 apaixonado por tecnologia! 
 
 
