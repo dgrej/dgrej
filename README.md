@@ -23,7 +23,7 @@ Olá, eu sou o Dino! 🦖
 
 - 🎸🎙️ Guitarrista e músico nas horas boas, 
 - 📦🚛 logístico por profissão e formação, 
-- 👨🏽‍💻 apaixonado [curioso] por tecnologia! 
+- 👨🏽‍💻 dev e maker autodidata! 
 
 
 ## about me in: 
