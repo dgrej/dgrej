@@ -29,5 +29,5 @@ Olá, eu sou o Dino! 🦖
 ## about me in: 
 [dgrej.github.io/about](https://dgrej.github.io/about)
 
-<a href="https://dgrej.github.io/about" target="_blank"><img src="https://cdn.dribbble.com/users/23118/screenshots/3557982/2.gif" alt="about Dino Grejo" ></a>
+<a href="https://dgrej.github.io/about" target="_blank"><img src="https://i.redd.it/j5flwuyruud61.jpg" alt="about Dino Grejo" ></a>
 
