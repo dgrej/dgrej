@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 Olá, eu sou o Dino! 🦖
 
-- 🎸🎙️ Guitarrista e músico por natureza; 
-- 📦🚛 logístico por opção e formação; //não teria paciencia para ser um matematico academico
-- 👨🏽‍💻 dev e maker autodidata/curioso 
+- 🎸🎙️ Guitarrista e músico por paixão; 
+- 📦🚛 logístico por opção e formação;
+- 👨🏽‍💻 dev e maker pelo conhecimento; 
 
 
 ## about me in: 
 [dgrej.github.io/about](https://dgrej.github.io/about)
 
-<a href="https://dgrej.github.io/about" target="_blank"><img src="https://i.redd.it/j5flwuyruud61.jpg" alt="about Dino Grejo" ></a>
+<a href="https://dgrej.github.io/about" target="_blank"><img src="https://herculeaf.files.wordpress.com/2017/03/ghysjeq.jpg?w=816" alt="about Dino Grejo" ></a>
 
