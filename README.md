@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Olá, eu sou o Dino! 🦖
 
 - 🎸🎙️ Guitarrista e músico por natureza; 
-- 📦🚛 logístico por opção e formação; //não teria para ser um matematico academico
+- 📦🚛 logístico por opção e formação; //não teria paciencia para ser um matematico academico
 - 👨🏽‍💻 dev e maker autodidata/curioso 
 
 
