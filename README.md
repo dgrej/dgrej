@@ -15,15 +15,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dinogrejo/)
-[<img src="https://img.shields.io/github/followers/dgrej?label=follow&style=social" height="22" title="Follow me" />](https://github.com/dgrej) 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dinogrejo@msn.com)
 
 Olá, eu sou o Dino! 🦖
 
-- 🎸🎙️ Guitarrista e músico nas horas boas, 
-- 📦🚛 logístico por profissão e formação, 
-- 👨🏽‍💻 dev e maker autodidata! 
+- 🎸🎙️ Guitarrista e músico por natureza; 
+- 📦🚛 logístico por opção e formação; //não teria para ser um matematico academico
+- 👨🏽‍💻 dev e maker autodidata/curioso 
 
 
 ## about me in: 
