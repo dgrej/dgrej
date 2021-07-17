@@ -26,5 +26,7 @@ Olá, eu sou o Dino! 🦖
 ## about me in: 
 [dgrej.github.io/about](https://dgrej.github.io/about)
 
-<a href="https://dgrej.github.io/about" target="_blank"><img src="https://herculeaf.files.wordpress.com/2017/03/ghysjeq.jpg?w=816" alt="about Dino Grejo" ></a>
 
+![Python](https://hydraco.ir/wp-content/uploads/2021/03/python-programming-training-lagos-nigeria.png)
+![NY](https://media.timeout.com/images/100559575/image.jpg)
+![Music](https://i.pinimg.com/originals/c6/27/a2/c627a264744447f3bc0d0978bce1fc9c.png)
