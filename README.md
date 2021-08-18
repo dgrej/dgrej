@@ -20,7 +20,7 @@ Hi, I'm Dino! 🦖
 
 - 🎸🎙️ Guitarist and musician by passion of the music;
 - 📦🚛 Logistics by have solid academic formation and professional experience;
-- 👨🏽‍💻 I'm studying pyhon and data analysis; 
+- 👨🏽‍💻 I'm studying Pyhon, Big Data and Business Intelligence; 
 
 
 ![Python](https://hydraco.ir/wp-content/uploads/2021/03/python-programming-training-lagos-nigeria.png)
