@@ -16,15 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Olá, eu sou o Dino! 🦖
+Hi, I'm Dino! 🦖
 
-- 🎸🎙️ Guitarrista e músico por paixão; 
-- 📦🚛 logístico por opção e formação;
-- 👨🏽‍💻 dev e maker pelo conhecimento; 
-
-
-## about me in: 
-[dgrej.github.io/about](https://dgrej.github.io/about)
+- 🎸🎙️ Guitarist and musician by passion of the music;
+- 📦🚛 Logistics by have solid academic formation and professional experience;
+- 👨🏽‍💻 I'm studying pyhon and data analysis; 
 
 
 ![Python](https://hydraco.ir/wp-content/uploads/2021/03/python-programming-training-lagos-nigeria.png)
