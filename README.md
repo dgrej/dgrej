@@ -22,5 +22,5 @@ Hi, I'm Dino! 🦖
 - 📦🚛 Logistics by have solid academic formation and professional experience;
 - 👨🏽‍💻 I'm studying Pyhon for Big Data and Business Intelligence; 
 
-![](https://s2.glbimg.com/qXLz8u5HauTjnDrWA-TN_OwFQ8s=/e.glbimg.com/og/ed/f/original/2019/01/04/gettyimages-865552540.jpg)
+![](https://cdnb.artstation.com/p/assets/images/images/003/279/995/large/daniel-garcia-daniel-garcia-art-illustration-faz-blockchain-world-internet-bitcoin-01.jpg?1471950500)
 
