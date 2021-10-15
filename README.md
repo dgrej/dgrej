@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Dino! 🦖
+### Hi there 👋 I'm Dino! 🦖
 
 - 🎸🎙️ Guitarist and musician by passion of the music;
 - 📦🚛 Logistics by have solid academic formation and professional experience;
-- 👨🏽‍💻 I'm studying Pyhon for Big Data and Business Intelligence; 
+- 👨🏽‍💻 Mathematician and technology lover
 
 ![](https://cdnb.artstation.com/p/assets/images/images/003/279/995/large/daniel-garcia-daniel-garcia-art-illustration-faz-blockchain-world-internet-bitcoin-01.jpg?1471950500)
 
