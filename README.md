@@ -15,7 +15,7 @@ I'm [Dino Grejo](https://dgrej.github.io/about)
 print("interests me!")
 languages=("Python, GO, TypeScript, JS")
 print(languages)
-I_like_too=("SQL, PostgreSQL, AWS, GoogleCloud, GoogleColab")
+I_like_too=("SQL, PostgreSQL, Docker, AWS, GoogleCloud, TensorFlow")
 print(I_like_too)
 
   ```
