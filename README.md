@@ -7,9 +7,9 @@ I'm [Dino Grejo](https://dgrej.github.io/about)
   ## Talking about me! 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dgrej/dgrej/master/code.gif" width="280" height="179" />
   
-      - 🎸🎙️ Guitarist and musician by passion of the music
+      - 🎸🎙️ Guitarist, singer and songwriter by love
       - 📦🚛 Logistics by academic formation and professional experience
-      - 👨🏽‍💻 ∫ Mathematician and technology lover
+      - 👨🏽‍💻 ∫ technology lover, math!
   ### and...🚀
  ```python
 print("interests me!")
