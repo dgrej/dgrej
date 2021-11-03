@@ -5,10 +5,8 @@
 
 ## About me! 
   
-      - 🎸🎙️ Guitarist, singer and songwriter by love
-      - 📦🚛 Logistics by academic formation and professional experience
-      - 👨🏽‍💻 ∫ technology lover, math!
-
+      - 📦🚛 Logistics by academic and professional experience
+      - 👨🏽‍💻 ∫ tech enthusiast
 
  ```python
 print("Hello World")
