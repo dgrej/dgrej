@@ -5,9 +5,8 @@
 
 ## About me! 
   
-      - 📦🚛 Logistics by academic and professional experience
-      - 👨🏽‍💻 ∫ tech enthusiast
-
+     Pythom, data analises, tech entusiast, logistic
+     
  ```python
 print("Hello World")
 
