@@ -5,7 +5,7 @@
 
 ## About me! 
   
-     Pythom, data analises, tech entusiast, logistic
+    Python, data analysis, tech enthusiast, logistic
      
  ```python
 print("Hello World")
