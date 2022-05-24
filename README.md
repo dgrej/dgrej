@@ -5,7 +5,7 @@
 
 ## About me! 
   
-    Python, data analysis, tech enthusiast, logistic and music
+    Python, logistic and music.
      
  ```python
 print("Hello World")
