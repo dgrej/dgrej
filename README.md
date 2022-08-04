@@ -1,9 +1,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dgrej/dgrej/master/code.gif" width="280" height="179" />
 
-# Hey there
-  I'm Dino Grejo
-
+## DNO ♬
 
 ## About me! 
   
