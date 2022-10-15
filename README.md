@@ -1,12 +1,12 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/dgrej/dgrej/master/code.gif" width="280" height="179" />
 
-## DnO ♬
+## Dino Grejo
 
 
 ## About me! 
 
-Python, logistic and music.
+logistic and music.
      
  ```python
 print("Hello World")
