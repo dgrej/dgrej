@@ -1,7 +1,7 @@
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/dgrej/dgrej/master/code.gif" width="280" height="179" />
+<img align="right" alt="GIF" src="https://delphiniumsoftech.com/assets/images/delphinium-162.gif" width="280" height="179" />
 
-## Dino Grejo
+## Hi! I'm Dino Grejo
 
 
 ## About me! 
