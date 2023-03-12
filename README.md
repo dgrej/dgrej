@@ -1,12 +1,12 @@
 
-<img align="right" alt="GIF" src="https://delphiniumsoftech.com/assets/images/delphinium-162.gif" width="280" height="179" />
+<img align="center" alt="butterfly" src="https://i.imgur.com/mUXf3no.jpg" width="280" height="179" />
 
-## Hi! I'm Dino Grejo
+# Hi! I'm Dino Grejo
 
 
-## About me! 
+# About me! 
 
-logistic and music.
+Logistic and Music.
      
  ```python
 print("Hello World")
