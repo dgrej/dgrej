@@ -1,10 +1,8 @@
 ```
-name = "Dino Grejo"
-I_like = "Music and working with logistics"
-print("Hey! My name is", name, "and I like",I_like)
+Hi there, I'm Dino! 👋
 
 ```
-<img src="https://i.imgur.com/mUXf3no.jpg" width="800" height="800">
+<img src="https://i.imgur.com/vN34qay.jpeg" width="" height="800">
 
 
 
