@@ -21,5 +21,4 @@
 
 ### Conecte-se comigo
 
-[<img src="https://img.icons8.com/?size=100&id=3439&format=png&color=000000"/>](https://dgrej.github.io/about) 
-
+[<img src="https://img.icons8.com/color/48/000000/github.png"/>](https://dgrej.github.io/about)
