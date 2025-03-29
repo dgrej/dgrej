@@ -1,24 +1,25 @@
-# Sou o Dino Grejo
+markdown
+# I am Dino Grejo
 
-## Analista de Dados | Logística | Músico 
+## Data Analyst | Logistics | Musician 
 
 <p align="left">
-  <img src="https://hexagon.com/-/media/project/one-web/master-site/products/innovation-stories/hxgn-connect/header-hxgn-connect.jpg" alt="Imagem de fundo logística e tecnologia" width="100%" height="70%">
+  <img src="https://hexagon.com/-/media/project/one-web/master-site/products/innovation-stories/hxgn-connect/header-hxgn-connect.jpg" alt="Logistics and technology background image" width="100%" height="70%">
 </p>
 
-### Sobre mim
+### About Me
 
-* Desenvolvedor Python | Analista de Dados com Pandas e SQL
-* Especialista em Logística e Transporte
-* Músico nas horas vagas 
+* Python Developer | Data Analyst with Pandas and SQL
+* Specialist in Logistics and Transportation
+* Musician in my spare time 
 
-### Ferramentas e Tecnologias
+### Tools and Technologies
 
 * Python
 * Pandas
 * SQL
 * Jupyter Lab
 
-### Conecte-se comigo
+### Connect with Me
 
 [<img src="https://img.icons8.com/color/48/000000/github.png"/>](https://dgrej.github.io/about)
