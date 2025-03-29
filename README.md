@@ -1,4 +1,3 @@
-markdown
 # I am Dino Grejo
 
 ## Data Analyst | Logistics | Musician 
