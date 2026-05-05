@@ -1,12 +1,3 @@
 <!-- I am Dino Grejo -->
 
-## PyAgri
-
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/87919172" alt="PyAgri" width="100%" height="auto">
-</p>
-
-### build a better world
-
-#### https://pyagri.github.io/
-
+<img width="1664" height="928" alt="image" src="https://github.com/user-attachments/assets/117c0be8-1db1-4193-894b-179fa1264668" />
