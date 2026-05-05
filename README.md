@@ -1,3 +1,1 @@
-<!-- I am Dino Grejo -->
-
-<img width="1664" height="928" alt="image" src="https://github.com/user-attachments/assets/117c0be8-1db1-4193-894b-179fa1264668" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fe01a91f-0ff4-48ff-b1bc-3d67f70d3f13" />
